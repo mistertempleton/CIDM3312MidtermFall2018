@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "g:\\School\\Fall 2018\\Advanced Business Programming\\CIDM3312MidtermFall2018\\CIDM3312MidtermFall2018.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

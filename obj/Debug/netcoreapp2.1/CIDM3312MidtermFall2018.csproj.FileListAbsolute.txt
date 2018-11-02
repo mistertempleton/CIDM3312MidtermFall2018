@@ -1,0 +1,4 @@
+G:\School\Fall 2018\Advanced Business Programming\CIDM3312MidtermFall2018\obj\Debug\netcoreapp2.1\CIDM3312MidtermFall2018.csprojAssemblyReference.cache
+G:\School\Fall 2018\Advanced Business Programming\CIDM3312MidtermFall2018\obj\Debug\netcoreapp2.1\CIDM3312MidtermFall2018.csproj.CoreCompileInputs.cache
+G:\School\Fall 2018\Advanced Business Programming\CIDM3312MidtermFall2018\obj\Debug\netcoreapp2.1\CIDM3312MidtermFall2018.AssemblyInfoInputs.cache
+G:\School\Fall 2018\Advanced Business Programming\CIDM3312MidtermFall2018\obj\Debug\netcoreapp2.1\CIDM3312MidtermFall2018.AssemblyInfo.cs
